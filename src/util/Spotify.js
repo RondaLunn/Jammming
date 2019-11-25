@@ -1,4 +1,4 @@
-const clientID = '84ec129716e14229b1a897886e9c3d77';
+const clientID = 'CLIENT_ID';
 const redirectURI = 'http://ronda_jammming.surge.sh';
 //const redirectURI = 'localhost:3000'
 
